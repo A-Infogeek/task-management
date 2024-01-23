@@ -1,4 +1,5 @@
-Installation 🛠️
+# Installation 🛠️
+
 Clone the project- git clone git@github.com:A-Infogeek/task-management.git
 
 Navigate to the project directory cd your-project
